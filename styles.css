@@ -1,0 +1,137 @@
+body {
+  margin: 0;
+  font-size: 20px;
+  color: #293462;
+  text-align: center;
+  background-color: #fff1c1;
+  font-family: 'Francois One', sans-serif;
+}
+  h1 {
+  color: #f76262;
+  margin-top: 0;
+  font-family: 'Cuprum', sans-serif;
+  font-size: 60px;
+}
+h2 {
+  color: #f76262;
+  margin-top: 50px;
+  font-size: 40px;
+}
+h3 {
+  color: #216583;
+  font-size: 30px;
+}
+p {
+  font-weight: normal;
+}
+hr {
+  margin-top: 45px;
+  outline: 2px;
+  border-top: 10px dotted #216583;
+  width: 5%;
+  margin: 40px auto 20px;
+}
+.top-container {
+  position: relative;
+}
+
+.earn {
+  text-decoration: underline green;
+}
+
+.footer-link {
+color: #216583;
+}
+
+.Think {
+  text-decoration: line-through;
+}
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  line-height: 2;
+  text-align: left;
+}
+.middle-container {
+  margin-top: 40px;
+}
+.Amazon-Marketing {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.YouTube {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.circular-portrait {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: auto;
+}
+.janelle-pic {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+.bottom-container {
+  background-color: #f76262;
+  margin-bottom: 0;
+  padding-top: 50px;
+  border-top-width: 20px;
+  margin-top: 30px;
+}
+.footer-link {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #fff1c1;
+  text-decoration: none;
+}
+.footer-text {
+  margin-bottom: 0;
+  padding-bottom: 50px;
+  border-top-width: 20px;
+  margin-top: 30px;
+  font-size: 16px;
+}
+a:hover {
+  color: #216583;
+}
+
+.btn {
+	-moz-box-shadow:inset 0px 0px 0px 0px #fff1c1;
+	-webkit-box-shadow:inset 0px 0px 0px 0px #fff1c1;
+	box-shadow:inset 0px 0px 0px 0px #fff1c1;
+	background-color:#fff1c1;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:42px;
+	border:3px solid #f76262;
+	display:inline-block;
+	cursor:pointer;
+	color:#f76262;
+	font-family:'Francois One', sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:12px 24px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #fff1c1;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.btn:hover {
+	background-color:#216683;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+.right-place {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
